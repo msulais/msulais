@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is **Muhammad Sulais**. 
+
+⚡ Fun fact: T-Rex is not a chicken
+
 <!--
 **msulais/msulais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
