@@ -5,14 +5,14 @@
 My name is `Muhammad Sulais`. Self-taught UI/UX web developer from Indonesia.
 
 - 🔭 I’m currently working on [redmerah.com](https://redmerah.com) (personal project).
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about **UI/UX design**
-- 🈂️ I can speak _Indonesian_ & _English_
+- 🌱 I’m currently learning Golang.
+- 💬 Ask me about **UI/UX design**.
+- 🈂️ I can speak _Indonesian_ & _English_.
 - 📫 How to reach me:
-  - LinkedIn: [@muhammad-sulais-a39a36256](https://www.linkedin.com/in/muhammad-sulais-a39a36256)
-  - Email: [muh.sulais@gmail.com](mailto:muh.sulais@gmail.com)
-  - Instagram: [@muh.sulais](https://www.instagram.com/muh.sulais)
-- ⚡ Fun fact: T-Rex is not a chicken
+  - LinkedIn: [@muhammad-sulais-a39a36256](https://www.linkedin.com/in/muhammad-sulais-a39a36256).
+  - Email: [muh.sulais@gmail.com](mailto:muh.sulais@gmail.com).
+  - Instagram: [@muh.sulais](https://www.instagram.com/muh.sulais).
+- ⚡ Fun fact: T-Rex is not a chicken.
 
 <!--
 **msulais/msulais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
