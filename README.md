@@ -1,3 +1,5 @@
+![image](./hero.png)
+
 ## Hi there 👋
 
 My name is **Muhammad Sulais**. 
