@@ -4,7 +4,7 @@
 
 My name is `Muhammad Sulais`. Self-taught UI/UX web developer from Indonesia.
 
-- 🔭 I’m currently working on [redmerah.com](https://redmerah.com)
+- 🔭 I’m currently working on [redmerah.com](https://redmerah.com) (personal project).
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about **UI/UX design**
 - 🈂️ I can speak Indonesia & English 
