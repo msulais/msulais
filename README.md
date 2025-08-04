@@ -7,6 +7,7 @@ My name is `Muhammad Sulais`. Self-taught UI/UX web developer from Indonesia.
 - 🔭 I’m currently working on [redmerah.com](https://redmerah.com)
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about **UI/UX design**
+- 🈂️ I can speak Indonesia & English 
 - 📫 How to reach me:
   - LinkedIn: [@muhammad-sulais-a39a36256](https://www.linkedin.com/in/muhammad-sulais-a39a36256)
   - Email: [muh.sulais@gmail.com](mailto:muh.sulais@gmail.com)
