@@ -9,7 +9,7 @@ My name is `Muhammad Sulais`. Self-taught UI/UX web developer from Indonesia.
 - 💬 Ask me about **UI/UX design**.
 - 🈂️ I can speak _Indonesian_ & _English_.
 - 📫 How to reach me:
-  - LinkedIn: [@muhammad-sulais-a39a36256](https://www.linkedin.com/in/muhammad-sulais-a39a36256).
+  - LinkedIn: [@muhammad-sulais](https://www.linkedin.com/in/muhammad-sulais).
   - Email: [muh.sulais@gmail.com](mailto:muh.sulais@gmail.com).
   - Instagram: [@muh.sulais](https://www.instagram.com/muh.sulais).
 - ⚡ Fun fact: T-Rex is not a chicken.
