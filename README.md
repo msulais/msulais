@@ -1,2 +1,2 @@
-![Muhammad Sulais Text](msulais.svg)
+![Muhammad Sulais Text](sulais.svg)
 
